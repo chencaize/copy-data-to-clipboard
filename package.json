@@ -1,0 +1,23 @@
+{
+  "name": "copy-data-to-clipboard",
+  "version": "1.0.0",
+  "description": "use the newest api navigator.clipboard.writeText to copy stuff into clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newest",
+    "copy",
+    "clipboard",
+    "browser",
+    "navigator",
+    "writeText"
+  ],
+  "author": "Caize Chen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chencaize/copy-data-to-clipboard"
+  }
+}
